@@ -9,7 +9,7 @@ Mediante el estudio, se pretende obtener conclusiones sobre qué factores tuvier
 
 ## Ficheros
 
-* **titanic.Rmd**: código fuente que genera el conjunto de datos.
+* **titanic_passengers_R.Rmd**: código fuente que genera el conjunto de datos.
 * **PRAC 2.pdf**: archivo que recoge la contestación a las preguntas de la _PRAC 2_.
 
 ## Autores del proyecto
