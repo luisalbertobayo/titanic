@@ -9,7 +9,7 @@ Mediante el estudio, se pretende obtener conclusiones sobre qué factores tuvier
 
 ## Autores del proyecto
 - Luis Alberto Bayo Martín
-- Miguel Ángel Bermejo Agueda
+- Miguel Ángel Bermejo Águeda
 
 Entrega relativa a la práctica 2 de "Tipología y Ciclo de Vida de los Datos"
 
