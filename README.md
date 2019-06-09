@@ -1,14 +1,15 @@
+# Práctica 2. Limpieza y validación de los datos 
+
 # Supervivencia al hundimiento del Titanic
 Titanic: Machine Learning from Disaster
 
 ## Características del dataset
-El dataset de estudio recoge los registros de los pasajeros del titanic categorizando a su vez si sobrevivieron o no.
+El dataset a estudio recoge los registros de los pasajeros que viajaron aborodo del Titanic, categorizando, a su vez, si sobrevivieron o no.
 
 ## Objetivo del proyecto
-El objetivo de este estudio era realizar un estudio demográfico para averiguar qué características comunes reúnen los pasajeros que si/no sobrevivieron al crucero Titanic observando que atributos de estos pudieron influir más en el hecho.
+Realizar un estudio demográfico para averiguar qué características comunes reúnen los pasajeros que SI/NO sobrevivieron al crucero Titanic observando que atributos de estos pudieron influir más en el hecho.
 
 ## Ficheros
-
 * _**test.csv**_
 * _**train.csv**_
 * _**master_clean.csv**_
@@ -21,9 +22,12 @@ El objetivo de este estudio era realizar un estudio demográfico para averiguar 
 Los datos están recogidos en dos archivos, _**test.csv**_ y _**train.csv**_, que han sido unificados en uno solo, _**master_clean.csv**_, que ha sido dimensionado con la estructura del dataset train y que contiene el paquete de datos con los que se trabaja tras la limpieza. El fichero _**titanic_passengers_R.Rmd**_ contiene el código fuente que genera el conjunto de datos. Por último _**PRAC 2.pdf**_ es el archivo que recoge la contestación a las preguntas de la _PRAC 2_ al igual que _**titanic_passengers_R.html**_ pero en diferente formato.
 Los ficheros _**PEC header.csv**_ y _**Firmas.jpg**_ contienen la cabecera  utilizada para la generación del fichero de lectura de la práctica y la tabla de firmas de las contribuciones de cada uno de los integrantes del equipo.
 
+## Licencia
++ Introducción a la limpieza y análisis de los datos, por Maria Calvo, Laia Subirats y Diego Pérez. Material Universidad Oberta de Catalunya (UOC)
+
 ## Autores del proyecto
-- Luis Alberto Bayo Martín
-- Miguel Ángel Bermejo Águeda
+- Luis Alberto Bayo Martín (LABM) - lbayom@uoc.edu
+- Miguel Ángel Bermejo Águeda - mbermejoa@uoc.edu
 
 Entrega relativa a la práctica 2 de "Tipología y Ciclo de Vida de los Datos"
 
