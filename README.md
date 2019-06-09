@@ -13,11 +13,12 @@ El objetivo de este estudio era realizar un estudio demográfico para averiguar 
 * _**train.csv**_
 * _**master_clean.csv**_
 * _**titanic_passengers_R.Rmd**_
+* _**titanic_passengers_R.html**_
 * _**PEC header.csv**_
 * _**Firmas.jpg**_
 * _**PRAC 2.pdf**_
 
-Los datos están recogidos en dos archivos, _**test.csv**_ y _**train.csv**_, que han sido unificados en uno solo, _**master_clean.csv**_, que ha sido dimensionado con la estructura del dataset train y que contiene el paquete de datos con los que se trabaja tras la limpieza. El fichero _**titanic_passengers_R.Rmd**_ contiene el código fuente que genera el conjunto de datos. Por último _**PRAC 2.pdf**_ es el archivo que recoge la contestación a las preguntas de la _PRAC 2_.
+Los datos están recogidos en dos archivos, _**test.csv**_ y _**train.csv**_, que han sido unificados en uno solo, _**master_clean.csv**_, que ha sido dimensionado con la estructura del dataset train y que contiene el paquete de datos con los que se trabaja tras la limpieza. El fichero _**titanic_passengers_R.Rmd**_ contiene el código fuente que genera el conjunto de datos. Por último _**PRAC 2.pdf**_ es el archivo que recoge la contestación a las preguntas de la _PRAC 2_ al igual que _**titanic_passengers_R.html**_ pero en diferente formato.
 Los ficheros _**PEC header.csv**_ y _**Firmas.jpg**_ contienen la cabecera  utilizada para la generación del fichero de lectura de la práctica y la tabla de firmas de las contribuciones de cada uno de los integrantes del equipo.
 
 ## Autores del proyecto
