@@ -8,8 +8,8 @@ El dataset de estudio recoge los registros de los pasajeros del titanic categori
 Mediante el estudio, se pretende obtener conclusiones sobre qué factores tuvieron mayor afectación a la hora de que el pasajero finalmente sobreviviera o no.
 
 ## Autores del proyecto
-Luis Alberto Bayo Martín
-Miguel Ángel Bermejo Agueda
+- Luis Alberto Bayo Martín
+- Miguel Ángel Bermejo Agueda
 
 Entrega relativa a la práctica 2 de "Tipología y Ciclo de Vida de los Datos"
 
