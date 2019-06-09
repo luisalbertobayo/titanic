@@ -5,12 +5,16 @@ Titanic: Machine Learning from Disaster
 El dataset de estudio recoge los registros de los pasajeros del titanic categorizando a su vez si sobrevivieron o no.
 
 ## Objetivo del proyecto
-Mediante el estudio, se pretende obtener conclusiones sobre qué factores tuvieron mayor afectación a la hora de que el pasajero finalmente sobreviviera o no.
+El objetivo de este estudio era realizar un estudio demográfico para averiguar qué características comunes reúnen los pasajeros que si/no sobrevivieron al crucero Titanic observando que atributos de estos pudieron influir más en el hecho.
 
 ## Ficheros
+Los datos están recogidos en dos archivos, **test.csv** y **train.csv**, que han sido unificados en uno solo, **master_clean.csv**, que ha sido dimensionado con la estructura del dataset train y que contiene el paquete de datos con los que se trabaja tras la limpieza.
 
-* **titanic_passengers_R.Rmd**: código fuente que genera el conjunto de datos.
-* **PRAC 2.pdf**: archivo que recoge la contestación a las preguntas de la _PRAC 2_.
+**Ficheros:**
+* _**test.csv**_
+* _**train.csv**_
+* _**titanic_passengers_R.Rmd**_: código fuente que genera el conjunto de datos.
+* _**PRAC 2.pdf**_: archivo que recoge la contestación a las preguntas de la _PRAC 2_.
 
 ## Autores del proyecto
 - Luis Alberto Bayo Martín
