@@ -7,6 +7,11 @@ El dataset de estudio recoge los registros de los pasajeros del titanic categori
 ## Objetivo del proyecto
 Mediante el estudio, se pretende obtener conclusiones sobre qué factores tuvieron mayor afectación a la hora de que el pasajero finalmente sobreviviera o no.
 
+## Ficheros
+
+* **titanic.Rmd**: código fuente que genera el conjunto de datos.
+* **PRAC 2.pdf**: archivo que recoge la contestación a las preguntas de la _PRAC 2_.
+
 ## Autores del proyecto
 - Luis Alberto Bayo Martín
 - Miguel Ángel Bermejo Águeda
